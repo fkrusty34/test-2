@@ -1,5 +1,5 @@
 <?php
-	// открываем файл
+	// открываем файл =)
 	$handle = fopen('test.csv', 'r');
 	if ($handle !== FALSE) {
 		echo '<table border="">';
